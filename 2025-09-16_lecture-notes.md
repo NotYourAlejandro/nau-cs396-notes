@@ -1,5 +1,5 @@
 
-# Lecture Notes for Sep 19, 2025
+# Lecture Notes for Sep 16, 2025
 
 ## Pairs
 
